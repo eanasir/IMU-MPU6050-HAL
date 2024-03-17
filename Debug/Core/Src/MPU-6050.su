@@ -1,0 +1,8 @@
+../Core/Src/MPU-6050.c:8:6:MPU6050_Reset	32	static
+../Core/Src/MPU-6050.c:13:9:MPU6050_TEMP_Read	32	static
+../Core/Src/MPU-6050.c:25:7:MPU6050_TEMP_Read_Celsius	16	static
+../Core/Src/MPU-6050.c:30:9:MPU6050_Init	32	static
+../Core/Src/MPU-6050.c:47:6:MPU6050_Config	32	static
+../Core/Src/MPU-6050.c:64:6:MPU6050_ACCEL_Read	80	static
+../Core/Src/MPU-6050.c:111:6:MPU6050_GYRO_Read	80	static
+../Core/Src/MPU-6050.c:158:6:MPU6050_SELF_TEST	48	static
